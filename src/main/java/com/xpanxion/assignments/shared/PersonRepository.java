@@ -1,7 +1,8 @@
 package com.xpanxion.assignments.shared;
 
-import com.xpanxion.assignments.stu0.Person;
+//import com.xpanxion.assignments.stu0.Person;
 
+import com.xpanxion.assignments.student.Person;
 import java.util.HashMap;
 
 public class PersonRepository {
